@@ -1,4 +1,6 @@
 # react-native-line-style
+安装：
+npm i react-native-line-style --save
 
 ``` javascript
   import {setSize} from 'react-native-line-style'
